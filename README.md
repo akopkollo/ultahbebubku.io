@@ -1,6 +1,6 @@
 ## ✨ Say Happy Birthday with a Webpage
 
-[Demo](https://fajarghifar.github.io/happybirthday/)
+[Demo](https://github.com/akopkollo/ultahbebubku.io)
 
 ## 🚀 How to Use
 
